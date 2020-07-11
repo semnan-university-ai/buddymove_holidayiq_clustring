@@ -1,5 +1,6 @@
 # buddymove_holidayiq_clustring
-TTSAS - Fuzzy_cMeans - min_proximity - min_proximity
+- clustring : TTSAS - Fuzzy_cMeans - min_proximity - min_proximity
+- dataset : https://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set
 
 ### Amir Shokri
 - amirsh.nll@gmail.com
