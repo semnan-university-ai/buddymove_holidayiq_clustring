@@ -2,7 +2,7 @@ function labels = TTSAS(X,theta1,theta2)
 
 % Amir Shokri
 % amirsh.nll@gmail.com
-% amirshnll.ir
+% 
 % github.com/amirshnll
 % July 2020
 

@@ -1,7 +1,7 @@
 function [thetas,numFoundClusters] = estimateNumberOfClusters(X,s,Nsteps, q)
 % Amir Shokri
 % amirsh.nll@gmail.com
-% amirshnll.ir
+% 
 % github.com/amirshnll
 % July 2020
 N         = size(X,1);

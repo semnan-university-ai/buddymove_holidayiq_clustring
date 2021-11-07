@@ -1,7 +1,7 @@
 function [d_x_i_C_k,k] = findClosestCluster( ii, labels, X )
 % Amir Shokri
 % amirsh.nll@gmail.com
-% amirshnll.ir
+% 
 % github.com/amirshnll
 % July 2020
 ulabels = unique(labels);
